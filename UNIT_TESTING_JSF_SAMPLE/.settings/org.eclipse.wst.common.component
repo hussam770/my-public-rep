@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="UNIT_TESTING_JSF_SAMPLE">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="UNIT_TESTING_JSF_SAMPLE"/>
+        <property name="java-output-path" value="/UNIT_TESTING_JSF_SAMPLE/build/classes"/>
+    </wb-module>
+</project-modules>
